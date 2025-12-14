@@ -7,10 +7,3 @@ for i in range(n,0,-1):
         if j!=i-1 :
             print("*",end='')
     print()
-
-    #2
-n=int(input())
-for row in range(n):
-    for j in range (row):
-        print(row+1,end='')
-    print()

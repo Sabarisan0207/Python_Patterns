@@ -7,3 +7,5 @@ for i in range(n,0,-1):
         if j!=i-1 :
             print("*",end='')
     print()
+
+    #for checking branch
